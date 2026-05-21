@@ -5,7 +5,8 @@
 
 ## ‎Programador![Programador](https://blob.gifcities.org/gifcities/SH43HVSNNR5LCLWDEF6OICFL57AKIQMN.gif)
 
-- Estudante da ETEC. Curso de Desenvolvimento de Sistemas, 1C2
+- Estudante da ETEC
+- Curso de Desenvolvimento de Sistema
 
 ![Linha](https://blob.gifcities.org/gifcities/WRIYUUITK3JAYYRKL3UIGPRSCN3C6JAY.gif)
 
