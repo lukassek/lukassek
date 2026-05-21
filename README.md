@@ -3,7 +3,7 @@
 
 ![Gif](https://blob.gifcities.org/gifcities/ASQJBYFPVHUL2UKYUFSBR532JTPHK3FB.gif)
 
-# ‎ ‎ ‎ ‎ ‎ Programador ![Programador](https://blob.gifcities.org/gifcities/SH43HVSNNR5LCLWDEF6OICFL57AKIQMN.gif)
+<h1 style="text align: center‎;">Programador</h1>  ![Programador](https://blob.gifcities.org/gifcities/SH43HVSNNR5LCLWDEF6OICFL57AKIQMN.gif)
 
 # ‎ ‎ ‎ ‎ ‎ Escutando agora / Recentes ![Disco](https://blob.gifcities.org/gifcities/F2DW3U3VIBLPUXJFOOIBSEGFO4ZQEYA2.gif) 
 
