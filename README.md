@@ -9,7 +9,6 @@
 
 - Curso de Desenvolvimento de Sistemas <img width="28" height="28" alt="download" src="https://github.com/user-attachments/assets/03156972-fb5c-4e03-bea4-72c9f898f138" />
 
-![Som](https://blob.gifcities.org/gifcities/6NKMNO5SRD7IEXZ7X5M6EG4TO34NIRPC.gif)
 ## ‎Escutando agora / Recentes ![Disco](https://blob.gifcities.org/gifcities/F2DW3U3VIBLPUXJFOOIBSEGFO4ZQEYA2.gif) 
 
 
