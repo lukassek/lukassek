@@ -10,9 +10,6 @@
 - Curso de Desenvolvimento de Sistemas <img width="28" height="28" alt="download" src="https://github.com/user-attachments/assets/03156972-fb5c-4e03-bea4-72c9f898f138" />
 
 
-![Linha](https://blob.gifcities.org/gifcities/WRIYUUITK3JAYYRKL3UIGPRSCN3C6JAY.gif)
-
-
 ## ‎Escutando agora / Recentes ![Disco](https://blob.gifcities.org/gifcities/F2DW3U3VIBLPUXJFOOIBSEGFO4ZQEYA2.gif) 
 
 ![Last.fm Recent](https://lastfm-recently-played.vercel.app/api?user=Drimund)
