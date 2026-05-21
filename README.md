@@ -1,4 +1,4 @@
-![Linha](https://blob.gifcities.org/gifcities/WRIYUUITK3JAYYRKL3UIGPRSCN3C6JAY.gif)
+<style text-align: center> ![Linha](https://blob.gifcities.org/gifcities/WRIYUUITK3JAYYRKL3UIGPRSCN3C6JAY.gif)
 
 
 ![Gif](https://blob.gifcities.org/gifcities/ASQJBYFPVHUL2UKYUFSBR532JTPHK3FB.gif)
@@ -13,3 +13,5 @@
  ‎ ‎ ‎ ‎ ‎ ![Last.fm Recent](https://lastfm-recently-played.vercel.app/api?user=Drimund)
 
 ![Linha2](https://blob.gifcities.org/gifcities/WRIYUUITK3JAYYRKL3UIGPRSCN3C6JAY.gif)
+
+</style>
