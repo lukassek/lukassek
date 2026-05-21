@@ -1,4 +1,4 @@
-![Gif](https://web.archive.org/web/20090902021926im_/http://geocities.com/cherishprovidernet/add_on/911aniplane_bf8.gif)
+![Gif]([https://web.archive.org/web/20090902021926im_/http://geocities.com/cherishprovidernet/add_on/911aniplane_bf8.gif](https://blob.gifcities.org/gifcities/ASQJBYFPVHUL2UKYUFSBR532JTPHK3FB.gif))
 
 # 🖥️ Programador
 
