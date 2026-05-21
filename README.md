@@ -5,9 +5,10 @@
 
 ## ‎Programador   ![Programador](https://blob.gifcities.org/gifcities/SH43HVSNNR5LCLWDEF6OICFL57AKIQMN.gif)
 
-- Estudante da ETECVAV <img width="32" height="32" alt="download" src="https://github.com/user-attachments/assets/7991dce2-a03a-4dbb-b2b1-856fdd08cc35" />
+- Estudante da ETECVAV <img width="28" height="28" alt="download" src="https://github.com/user-attachments/assets/7991dce2-a03a-4dbb-b2b1-856fdd08cc35" />
 
-- Curso de Desenvolvimento de Sistema 
+- Curso de Desenvolvimento de Sistemas <img width="28" height="28" alt="download" src="https://github.com/user-attachments/assets/03156972-fb5c-4e03-bea4-72c9f898f138" />
+
 
 ![Linha](https://blob.gifcities.org/gifcities/WRIYUUITK3JAYYRKL3UIGPRSCN3C6JAY.gif)
 
