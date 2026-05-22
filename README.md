@@ -8,18 +8,18 @@
 
 ![Gif](https://blob.gifcities.org/gifcities/ASQJBYFPVHUL2UKYUFSBR532JTPHK3FB.gif)
 
-## ‎Programador   ![Programador](https://blob.gifcities.org/gifcities/SH43HVSNNR5LCLWDEF6OICFL57AKIQMN.gif)
-
 </div>
+
+## ‎Programador   ![Programador](https://blob.gifcities.org/gifcities/SH43HVSNNR5LCLWDEF6OICFL57AKIQMN.gif)
 
 - Estudante da ETECVAV 
 - Curso de Desenvolvimento de Sistemas
 
-<div align="center">
+
   
 ## ‎Escutando agora / Recentes ![Disco](https://blob.gifcities.org/gifcities/F2DW3U3VIBLPUXJFOOIBSEGFO4ZQEYA2.gif)
 
-</div>
+
 
 ![Som](https://blob.gifcities.org/gifcities/6NKMNO5SRD7IEXZ7X5M6EG4TO34NIRPC.gif)
 
