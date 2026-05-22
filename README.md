@@ -1,4 +1,4 @@
-<table style="background-color: #000000; width: 100%; border: none; color: #ffffff;">
+<table>
   <tr>
     <td>
 
