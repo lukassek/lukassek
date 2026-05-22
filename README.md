@@ -17,7 +17,7 @@
 
 ## ‎Escutando agora / Recentes ![Disco](https://blob.gifcities.org/gifcities/F2DW3U3VIBLPUXJFOOIBSEGFO4ZQEYA2.gif)
 
-![Last.fm Last](https://lastfm-recently-played.vercel.app/api?user=lukassek) ![Som](https://blob.gifcities.org/gifcities/6NKMNO5SRD7IEXZ7X5M6EG4TO34NIRPC.gif)
+![Som](https://blob.gifcities.org/gifcities/6NKMNO5SRD7IEXZ7X5M6EG4TO34NIRPC.gif)
 
 ![Last.fm Recent](https://lastfm-recently-played.vercel.app/api?user=Drimund)
 
