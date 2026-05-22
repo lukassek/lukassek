@@ -1,7 +1,7 @@
-<table>
-  
-<td>
-  
+<table style="background-color: #000000; width: 100%; border: none; color: #ffffff;">
+  <tr>
+    <td>
+
 <div align="center">
 
 ![Linha1](https://blob.gifcities.org/gifcities/2UCP24Y4EWSC22E2BXWBLHOLA4K462Q6.gif)
@@ -15,13 +15,9 @@
 - Estudante da ETECVAV 
 - Curso de Desenvolvimento de Sistemas
 
-
-  
 ## ‎Escutando agora / Recentes ![Disco](https://blob.gifcities.org/gifcities/F2DW3U3VIBLPUXJFOOIBSEGFO4ZQEYA2.gif)
 
-
 ![Som](https://blob.gifcities.org/gifcities/6NKMNO5SRD7IEXZ7X5M6EG4TO34NIRPC.gif)
-
 
 ![Last.fm Recent](https://lastfm-recently-played.vercel.app/api?user=Drimund)
 
@@ -29,9 +25,8 @@
 
 ![Linha2](https://blob.gifcities.org/gifcities/2UCP24Y4EWSC22E2BXWBLHOLA4K462Q6.gif)
 
-
 </div>
 
-</td>
-
+    </td>
+  </tr>
 </table>
