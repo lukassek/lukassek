@@ -1,7 +1,7 @@
 <table>
   
-<td style="background-color = Black">
-
+<td>
+  
 <div align="center">
 
 ![Linha1](https://blob.gifcities.org/gifcities/2UCP24Y4EWSC22E2BXWBLHOLA4K462Q6.gif)
