@@ -1,6 +1,4 @@
-<div align="center>
-
-![Linha](https://blob.gifcities.org/gifcities/2UCP24Y4EWSC22E2BXWBLHOLA4K462Q6.gif)
+<div align="center">
 
 ![Gif](https://blob.gifcities.org/gifcities/ASQJBYFPVHUL2UKYUFSBR532JTPHK3FB.gif)
 
