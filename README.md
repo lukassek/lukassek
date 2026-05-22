@@ -19,9 +19,9 @@
 
 ![Som](https://blob.gifcities.org/gifcities/6NKMNO5SRD7IEXZ7X5M6EG4TO34NIRPC.gif)
 
-<div align="center">
-  
 ![Last.fm Recent](https://lastfm-recently-played.vercel.app/api?user=Drimund)
+
+<div align="center">
 
 ![Linha2](https://blob.gifcities.org/gifcities/2UCP24Y4EWSC22E2BXWBLHOLA4K462Q6.gif)
 
