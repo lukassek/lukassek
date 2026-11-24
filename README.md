@@ -1,1 +1,1 @@
-<img src="rena-ryuugu.gif" width="200" height="200" alt="Rena Ryuugu">
+<img src="rena.jpg" width="400" height="200" alt="Rena Ryuugu">
